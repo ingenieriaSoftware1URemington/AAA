@@ -1,9 +1,11 @@
 # AAA
 # nombre del repositorio :Caída de Facebook en 2021
 
-# lenguaje Principalmente en php fue creado facebok
+# lenguaje Principalmente 
+en php fue creado facebok tambien uso java,javascript c++
 
-# tipo de proyecto: Infraestructura de sistemas / redes y servicios web
+# tipo de proyecto:
+Infraestructura de sistemas / redes y servicios web
 # descripcion del fallo
 Fallaba la infraestructura de red de Facebook, específicamente el sistema de enrutamiento BGP que anunciaba las rutas IP de sus servidores DNS.
 el fallo fue un erro en la red de facebook que dejo si servicios sin conexion durate varias horas
