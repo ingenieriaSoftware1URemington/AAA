@@ -16,9 +16,10 @@ el fallo fue un erro en la red de facebook que dejo si servicios sin conexion du
 
 
 
-#¿ como se manifestaba el error?: 
+# como se manifestaba el error: 
+
 el error se manifestaba el error se manifestaba cuando no se podia Iniciar sesión con Facebook
- whatsapp messenger y la aplicacion no cargaba durante un periodo de 6 horas
+whatsapp messenger y la aplicacion no cargaba durante un periodo de 6 horas
 
 
 
