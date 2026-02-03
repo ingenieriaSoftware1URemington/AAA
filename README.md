@@ -14,9 +14,16 @@ redes y servicios web
 
 
 # descripcion del fallo
-Fallaba la infraestructura de red de Facebook, específicamente el sistema de enrutamiento BGP que anunciaba las rutas IP de sus servidores DNS.
 
-el fallo fue un erro en la red de facebook que dejo si servicios sin conexion durate varias horas
+
+Los expertos en seguridad identificaron el problema como una retirada del Protocolo de Puerta de Enlace Fronteriza (BGP) de los prefijos de direcciones IP en los que se alojaban los servidores del Sistema de 
+
+Nombres de Dominio (DNS) de Facebook, lo que hacía imposible que los usuarios resolvieran los nombres de dominio de Facebook y relacionados, y llegaran a los servicios.
+Fallaba la infraestructura de red de Facebook, específicamente el sistema de enrutamiento BGP que anunciaba las rutas IP de sus servidores DNS.Los efectos fueron visibles a nivel mundial; por ejemplo, el proveedor de servicios de Internet suizo Init7 registró una caída masiva del tráfico de Internet
+
+La interrupción interrumpió las comunicaciones internas de Facebook, impidiendo que los empleados enviaran o recibieran correos electrónicos externos
+
+el fallo fue un error en la red de facebook que dejo si servicios sin conexion durate varias horas
 
 
 
